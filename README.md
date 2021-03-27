@@ -20,7 +20,7 @@
 > 
 >  **问题二：京东Cookie的有效期**
 > 
-> >就我自己项目中的使用情况而言，一个月有效期。
+> >就我自己项目中的使用情况而言，一个月有效期。dddd
 
 
 
@@ -52,7 +52,7 @@
 
 ## 效果截图
 
-![WechatIMG3](./images/WechatIMG3.jpeg)df
+![WechatIMG3](./images/WechatIMG3.jpeg)
 
 ![WechatIMG4](./images/WechatIMG4.jpeg)
 
